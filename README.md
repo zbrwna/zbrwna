@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oii, meu nome é Bruna e estou dando os primeiros passos no mundo da programação!👋
 
-<!--
-**zbrwna/zbrwna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+- 🧠 Iniciante em programação, mas com muita vontade de aprender!
+- São Paulo -SP
+- Programa Transforme-se, Serasa Experian
 
-Here are some ideas to get you started:
+![zbrwna's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbrwna&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbrwna&layout=compact&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+
+
